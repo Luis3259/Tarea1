@@ -1,0 +1,158 @@
+h1,h2{
+    color: darkblue;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#fondo{
+    width: 800px;
+    height: 1000px;
+    background-color: antiquewhite;
+    margin: auto;
+}
+#cuerpo{
+    width: 560px;
+    height: 1000px;
+    background-color: burlywood;
+    margin: auto;
+    position: relative;
+    top: 50px;
+}
+#orejaI{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    border-radius: 100px;
+    display: inline-block;
+}
+#espacio{
+    width: 150px;
+    display: inline-block;
+}
+#orejaD{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    border-radius: 100px;
+    display: inline-block;
+}
+#oidoI{
+    width: 100px;
+    height: 100px;
+    background-color: burlywood;
+    border-radius: 100px;
+    position: absolute;
+    top: 75px;
+    left: 75px;
+}
+#oidoD{
+    width: 100px;
+    height: 100px;
+    background-color: burlywood;
+    border-radius: 100px;
+    position: absolute;
+    top: 75px;
+    right: 75px;
+}
+#cara{
+    width: 400px;
+    height: 400px;
+    background-color: brown;
+    position: absolute;
+    top: 50px;
+    left: 80px;
+    border-radius: 500px;
+}
+#boca{
+    width: 250px;
+    height: 200px;
+    background-color: burlywood;
+    border-radius: 150px;
+    position: absolute;
+    top: 200px;
+    left: 75px;
+}
+#barriga{
+    width: 500px;
+    height: 500px;
+    background-color: brown;
+    position: absolute;
+    top: 400px;
+    left: 35px;
+    border-radius: 500px;
+}
+#nariz{
+    width: 100px;
+    height: 75px;
+    background-color: black;
+    border-radius: 150px;
+    position: absolute;
+    left: 75px;
+    margin: auto;
+}
+#izq{
+    width: 250px;
+    height: 200px;
+    background-color: brown;
+    border-radius: 120px;
+    transform: rotate(35deg);
+    position: absolute;
+    top: 550px;
+}
+#der{
+    width: 250px;
+    height: 200px;
+    background-color: brown;
+    border-radius: 120px;
+    transform: rotate(135deg);
+    position: absolute;
+    top: 550px;
+    margin-left: 560px;
+}
+#pataI{
+    width: 250px;
+    height: 200px;
+    background-color: brown;
+    border-radius: 120px;
+    transform: rotate(135deg);
+    position: absolute;
+    top: 1000px;
+    margin-left: 50px;
+}
+#pataD{
+    width: 250px;
+    height: 200px;
+    background-color: brown;
+    border-radius: 120px;
+    transform: rotate(45deg);
+    position: absolute;
+    top: 1000px;
+    margin-left: 500px;
+}
+#ojoI{
+    width: 50px;
+    height: 100px;
+    background-color: black;
+    border-radius: 50px;
+    position: absolute;
+    top: 150px;
+    margin-left: 100px;
+}
+#ojoD{
+    width: 50px;
+    height: 100px;
+    background-color: black;
+    border-radius: 50px;
+    position: absolute;
+    top: 150px;
+    margin-left: 250px;
+}
+#panza{
+    width: 300px;
+    height: 350px;
+    background-color: burlywood;
+    border-radius: 150px;
+    position: absolute;
+    top: 75px;
+    left: 100px;
+}
